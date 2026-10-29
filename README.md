@@ -2,6 +2,10 @@
 
 Rigged and animated hand models designed for XR experiences using the XR Interaction Toolkit.
 
+## Credits & Attribution
+- **Base Models:** Oculus / Meta.
+- **FBX Conversion & Optimization:** Transformed and provided by **Justin Barnett**. Check out his awesome VR tutorials and content on [Patreon](https://www.patreon.com/justinpbarnett/posts/free-oculus-vr-46544401).
+
 ## Prerequisites
 Before importing this package, make sure you have the **XR Interaction Toolkit** installed in your Unity project via the Package Manager.
 
