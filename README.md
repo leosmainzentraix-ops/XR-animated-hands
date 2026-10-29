@@ -1,10 +1,11 @@
 # XR Animated Hands (.unitypackage)
 
-Rigged and animated hand models designed for XR experiences using the XR Interaction Toolkit.
+A collection of free animated XR hands ready for your VR projects. If you've been looking for an **"XR hands free animated"** solution that just works out of the box with the Unity XR Interaction Toolkit, this package is for you!
 
 ## Credits & Attribution
+- **Tutorial & Setup:** Built following the excellent VR implementation guides by **Justin Barnett**.
+- **FBX Conversion & Optimization:** Transformed and provided by **Justin Barnett**. Check out his awesome VR tutorials and content on [Patreon](https://patreon.com).
 - **Base Models:** Oculus / Meta.
-- **FBX Conversion & Optimization:** Transformed and provided by **Justin Barnett**. Check out his awesome VR tutorials and content on [Patreon](https://www.patreon.com/justinpbarnett/posts/free-oculus-vr-46544401).
 
 ## Prerequisites
 Before importing this package, make sure you have the **XR Interaction Toolkit** installed in your Unity project via the Package Manager.
